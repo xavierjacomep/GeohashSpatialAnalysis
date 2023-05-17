@@ -1,6 +1,6 @@
 # Análisis Geoespacial con Geohash
 
-Este repositorio contiene un análisis geoespacial que utiliza Geohash, un sistema de geocodificación de dominio público, para simplificar y acelerar las operaciones espaciales, como la clasificación y búsqueda. El caso de uso que se explora en este proyecto se basa en las geometrías de las unidades educativas en Guayaquil. Utilizamos los [datos públicos disponibles en el portal de datos geoespaciales de la Municipalidad](https://geoportal-guayaquil.opendata.arcgis.com/datasets/219588488dca4a40be9bf9afae22cb82_0/explore?location=-2.198659%2C-79.881801%2C14.92).
+Este repositorio contiene un análisis geoespacial que utiliza Geohash, un sistema de geocodificación de dominio público, para simplificar y acelerar las operaciones espaciales, como la clasificación y búsqueda. El caso de uso que se explora en este proyecto se basa en las geometrías de las unidades educativas en Guayaquil. Utilizamos los [datos públicos disponibles en el portal de datos geoespaciales de la Municipalidad](https://geoportal-guayaquil.opendata.arcgis.com/datasets/219588488dca4a40be9bf9afae22cb82_0/explore?location=-2.198659%2C-79.881801%2C14.92). [Accede al Notebook de Análisis aquí](./Geohash_Instituciones_Educativas_Guayaquil.ipynb).
 
 ## Contenido
 El repositorio incluye un Jupyter Notebook *(GeohashSpatialAnalysis.ipynb)* que realiza los siguientes pasos:
