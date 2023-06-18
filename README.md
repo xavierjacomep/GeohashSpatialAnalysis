@@ -8,7 +8,7 @@ El repositorio incluye un Jupyter Notebook *(GeohashSpatialAnalysis.ipynb)* que 
 1. Carga los datos geoespaciales de las unidades educativas en Guayaquil y los transforma al Sistema de Referencia de Coordenadas (CRS) correcto (EPSG:4326).
 2. Extrae la latitud y la longitud de los puntos de geometría.
 3. Genera códigos de Geohash a partir de la latitud y la longitud utilizando una precisión de 7.
-4. Crea polígonos a partir de las cajas delimitadoras de Geohash.
+4. Crea polígonos a partir de los códigos Geohash.
 5. Visualiza los datos geoespaciales en un mapa con un mapa base.
 6. Crea un mapa interactivo con marcadores para cada punto de nuestro GeoDataFrame.
 
